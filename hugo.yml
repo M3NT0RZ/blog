@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+name: https://m3nt0rz.github.io/blog/
 
 on:
   # Runs on pushes targeting the default branch
@@ -64,7 +64,7 @@ jobs:
   # Deployment job
   deploy:
     environment:
-      name: github-pages
+      name: https://m3nt0rz.github.io/blog/
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
