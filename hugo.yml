@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: https://m3nt0rz.github.io/blog/
+name: https://m3nt0rz-jak.github.io/blog/
 
 on:
   # Runs on pushes targeting the default branch
